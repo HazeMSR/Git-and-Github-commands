@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-experiment
-=======
-new
->>>>>>> 747adca... main
-=======
-new
->>>>>>> origin/main
