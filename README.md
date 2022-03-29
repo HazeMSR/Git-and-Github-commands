@@ -10,7 +10,7 @@ You must write all your commands inside instructions.sh and push to the main bra
 2. Change your branch to dev and append the text "walking()" to the file. Commit and Push your Changes (CaP).
 3. Rebase the dev branch on main and prod branch. (CaP)
 4. Change to stg branch, create a new file called robot_tests.txt and append the following text: "walking_test()\nTest complete!!". (CaP)
-5. Rebase the stg branch on stg and qa branch. (CaP)
+5. Rebase the stg branch on main and qa branch. (CaP)
 6. Change to qa branch, append to the robot_test.txt file the text "walking_acept_test()\nUser accepted the changes!!". (CaP).
 7. Merge the qa branch on main and stg branch. (CaP).
 8. Change to prod branch, append to the robot.txt file the following text (CaP): 
